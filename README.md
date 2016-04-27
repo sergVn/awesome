@@ -6,6 +6,7 @@ Inspiring sites, library and articles about programming.
 - [VIDEO: What the 55 Swift Standard Library Protocols Taught Me](https://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me)
 - [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/)
 - [Protocol-Oriented Segue Identifiers in Swift](https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift/)
+- [Type erasure](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
 
 
 ##### Functional programming
