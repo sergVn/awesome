@@ -53,3 +53,7 @@ Inspiring sites, library and articles about programming.
 # Clojure
 - [4clojure](https://www.4clojure.com/problems)
 - [clojure koans](http://clojurekoans.com/)
+
+# Ruby
+- [_why's sources](http://whymirror.github.io/)
+- [14 ways to have fun with ruby](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
