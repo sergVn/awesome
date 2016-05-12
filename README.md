@@ -45,7 +45,7 @@ Inspiring sites, library and articles about programming.
 
 ##### Custom control
 - [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
-- [How to make custom control](https://www.raywenderlich.com/36288/how-to-make-a-custom-control)
+- [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
 # Elm
 - [VIDEO: "Make the Back-End Team Jealous: Elm in Production" by Richard Feldman](https://www.youtube.com/watch?v=FV0DXNB94NE)
