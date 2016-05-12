@@ -43,7 +43,9 @@ Inspiring sites, library and articles about programming.
 ##### Distribution
 - [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
 
-
+##### Custom control
+- [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
+- [How to make custom control](https://www.raywenderlich.com/36288/how-to-make-a-custom-control)
 
 # Elm
 - [VIDEO: "Make the Back-End Team Jealous: Elm in Production" by Richard Feldman](https://www.youtube.com/watch?v=FV0DXNB94NE)
