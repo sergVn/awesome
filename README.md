@@ -50,6 +50,10 @@ Inspiring sites, library and articles about programming.
 - [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
 - [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
+##### Utilities
+- [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
+
+
 # Elm
 - [VIDEO: "Make the Back-End Team Jealous: Elm in Production" by Richard Feldman](https://www.youtube.com/watch?v=FV0DXNB94NE)
 - [Walkthrough: Introducing Elm to a JS Web App](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
