@@ -45,6 +45,7 @@ Inspiring sites, library and articles about programming.
  
 ##### Distribution
 - [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
+- [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
 ##### Custom control
 - [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
