@@ -68,6 +68,9 @@ Inspiring sites, library and articles about programming.
 - [_why's sources](http://whymirror.github.io/)
 - [14 ways to have fun with ruby](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 
+# Elixir
+- [Phoenix Framework for the new web by José Valim](https://www.youtube.com/watch?v=Toluc5MCQWs)
+
 
 # Interview tools
 - [CoderPad](https://coderpad.io/)
