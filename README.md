@@ -69,6 +69,7 @@ Inspiring sites, library and articles about programming.
 - [14 ways to have fun with ruby](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 
 # Elixir
+- [Atom iex](https://atom.io/packages/iex)
 - [Learn elixir in Y Minutes(Good to remind basic syntax](https://learnxinyminutes.com/docs/elixir/)
 - [Phoenix Framework for the new web by José Valim](https://www.youtube.com/watch?v=Toluc5MCQWs)
 
