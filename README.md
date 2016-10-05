@@ -46,8 +46,6 @@ Inspiring sites, library and articles about programming.
 
  
 
-##### Custom control
-- [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
 
 ##### Utilities
 - [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
