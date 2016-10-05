@@ -37,21 +37,3 @@ Good learning sources for Swift & iOS
 
 ### Utilities
 - [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
-
-
-# Clojure
-- [4clojure](https://www.4clojure.com/problems)
-- [clojure koans](http://clojurekoans.com/)
-
-# Ruby
-- [_why's sources](http://whymirror.github.io/)
-- [14 ways to have fun with ruby](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
-
-# Elixir
-- [Atom iex](https://atom.io/packages/iex)
-- [Learn elixir in Y Minutes(Good to remind basic syntax](https://learnxinyminutes.com/docs/elixir/)
-- [Phoenix Framework for the new web by José Valim](https://www.youtube.com/watch?v=Toluc5MCQWs)
-
-
-# Interview tools
-- [CoderPad](https://coderpad.io/)
