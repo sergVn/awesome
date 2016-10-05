@@ -3,6 +3,7 @@ Inspiring sites, library and articles about programming.
 # Swift
 
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+- [Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds#Working_with_Playground_Pages)
 
 ##### Protocol oriented programming
 - [VIDEO: WWDC 2015 Protocol-oriented Programming in Swift](https://www.youtube.com/watch?v=g2LwFZatfTI)
