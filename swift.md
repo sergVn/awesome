@@ -34,6 +34,3 @@
 ### Community
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Code4App](http://www.code4app.net/index.html)
-
-### To clean up
-- [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
