@@ -2,7 +2,6 @@
 
 ### Basic
 
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds#Working_with_Playground_Pages)
 - [Resolution](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
@@ -33,7 +32,8 @@
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
 ### Community
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Code4App](http://www.code4app.net/index.html)
 
-### Utilities
+### To clean up
 - [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
