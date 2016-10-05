@@ -1,9 +1,13 @@
 Inspiring sites, library and articles about programming.
 
-# Swift
+# Swift & iOS
+
+##### Basic
 
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds#Working_with_Playground_Pages)
+- [Resolution](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
 ##### Protocol oriented programming
 - [VIDEO: WWDC 2015 Protocol-oriented Programming in Swift](https://www.youtube.com/watch?v=g2LwFZatfTI)
@@ -12,6 +16,7 @@ Inspiring sites, library and articles about programming.
 - [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/)
 - [Protocol-Oriented Segue Identifiers in Swift](https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift/)
 - [Type erasure](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
+- [Protocol-Oriented MVVM in Swift 2.0](https://www.natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0/)
 
 
 ##### Functional programming
@@ -23,8 +28,12 @@ Inspiring sites, library and articles about programming.
 
 ##### Async, Concurrent
 - [VIDEO: Swift Sync and Async Error Handling](https://www.youtube.com/watch?v=mbd6g7NfR-8)
-- [Async](https://github.com/duemunk/Async)
 - [VIDEO: The Bright Future of Swift](http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift)
+
+##### Distribution
+- [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
+- [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
+
 
 # iOS
 
@@ -32,30 +41,13 @@ Inspiring sites, library and articles about programming.
 - [Code4App](http://www.code4app.net/index.html)
 
 ##### MVVM, VIPER
-- [Protocol-Oriented MVVM in Swift 2.0](https://www.natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0/)
-- [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 
 ##### UIKit
-- [Resolution](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
-##### CALayer
-- Tutorial
- - [VIDEO: CAShapeLayer animation pitfall](https://www.raywenderlich.com/123813/video-tutorial-calayers-part-3-cashapelayer-2)
- - [CALayer subclasses with 10 examples](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
-  
  
-##### Animation
-- Tutorial
- - [UIView animation](https://www.raywenderlich.com/113674/ios-animation-tutorial-getting-started)
-- [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
- 
-##### Distribution
-- [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
-- [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
 ##### Custom control
 - [Apple Basic Guide](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
-- [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
 ##### Utilities
 - [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
