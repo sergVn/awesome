@@ -1,6 +1,4 @@
-Inspiring sites, library and articles about programming.
-
-# Swift & iOS
+Good learning sources for Swift & iOS
 
 ##### Basic
 
@@ -34,18 +32,8 @@ Inspiring sites, library and articles about programming.
 - [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
-
-# iOS
-
 ##### Community
 - [Code4App](http://www.code4app.net/index.html)
-
-##### MVVM, VIPER
-
-##### UIKit
-
- 
-
 
 ##### Utilities
 - [iOS/Swift extension collection](http://realignist.me/code/2016/06/05/swift-snippets.html)
