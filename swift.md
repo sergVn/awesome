@@ -2,8 +2,8 @@
 
 ### Basic
 
-- [Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds#Working_with_Playground_Pages)
-- [Resolution](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [Working with Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds)
+- [iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
 ### Protocol oriented programming
