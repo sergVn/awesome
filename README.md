@@ -2,6 +2,8 @@ Inspiring sites, library and articles about programming.
 
 # Swift
 
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+
 ##### Protocol oriented programming
 - [VIDEO: WWDC 2015 Protocol-oriented Programming in Swift](https://www.youtube.com/watch?v=g2LwFZatfTI)
 - [VIDEO: What the 55 Swift Standard Library Protocols Taught Me](https://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me)
