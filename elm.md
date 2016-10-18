@@ -10,3 +10,4 @@
 # Haskell
 
 - [UPENN Haskell 2015](http://www.seas.upenn.edu/~cis194/spring15/lectures.html)
+- [Glasgow Haskell 2016](https://www.futurelearn.com/courses/functional-programming-haskell/1/welcome)
