@@ -4,6 +4,7 @@
 
 - [[VIDEO] RayWenderlich](https://videos.raywenderlich.com/courses)
 - [Working with Playground](http://www.techotopia.com/index.php/An_Introduction_to_Xcode_7_Playgrounds)
+- [Cocoapods Playground](https://github.com/segiddins/ThisCouldBeUsButYouPlaying)
 - [iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
