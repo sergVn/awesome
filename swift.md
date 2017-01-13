@@ -33,6 +33,10 @@
 - [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
+### Debugging
+- [https://www.youtube.com/watch?v=OiHefYRfWWw](Debugging Swift Memory Leak)
+
 ### Community
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Code4App](http://www.code4app.net/index.html)
+
