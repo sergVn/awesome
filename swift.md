@@ -34,7 +34,7 @@
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
 ### Debugging
-- [https://www.youtube.com/watch?v=OiHefYRfWWw](Debugging Swift Memory Leak)
+- [Debugging Swift Memory Leak](https://www.youtube.com/watch?v=OiHefYRfWWw)
 
 ### Community
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
