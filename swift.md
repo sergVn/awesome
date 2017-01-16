@@ -7,6 +7,7 @@
 - [Cocoapods Playground](https://github.com/segiddins/ThisCouldBeUsButYouPlaying)
 - [iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [How to make custom control](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
+- [Custom Views](https://guides.codepath.com/ios/Custom-Views#)
 
 ### Protocol 
 - [[VIDEO] WWDC 2015 Protocol-oriented Programming in Swift](https://www.youtube.com/watch?v=g2LwFZatfTI)
